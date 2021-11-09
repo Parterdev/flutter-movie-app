@@ -1,0 +1,10 @@
+curl -H "Authorization: xxxxxxxxxxxxxxx" \
+  "https://api.themoviedb.org/3/movie/popular?api_key=xxxxxxxxxxxxxxx&language=en-US"
+
+
+//App endpoints services
+/**
+  1.- "https://api.themoviedb.org/3/movie/popular?api_key=xxxxxxxxxxxxxxx&language=en-US"
+  2.- "https://api.themoviedb.org/3/movie/top_rated?api_key=xxxxxxxxxxxxxxx&language=en-US"
+  3.- "https://api.themoviedb.org/3/movie/{movie_id}/credits?api_key=xxxxxxxxxxxxxxx&language=en-US"
+**/
